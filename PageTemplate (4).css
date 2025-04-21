@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About Us - Hope Avenue</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about-us">
+            <h1>About Hope Avenue</h1>
+            <p>
+                Welcome to Hope Avenue, where we strive to create a community of empowered youth and
+                lifelong learners. Our mission is to provide accessible learning resources, mentorship,
+                and creative outlets for young people through the power of libraries, community engagement,
+                and collaborative projects.
+            </p>
+
+            <h2>Our Mission</h2>
+            <p>
+                Hope Avenue was founded with the belief that every young person deserves the opportunity
+                to explore their interests, develop their skills, and contribute to a brighter future.
+                We focus on bringing together youth, educators, and volunteers to create a space where
+                science, creativity, and social impact meet. Through hands-on programs, mentoring, and
+                community service initiatives, we empower youth to become leaders in their fields.
+            </p>
+
+            <h2>Our Programs</h2>
+            <p>
+                We offer a variety of programs designed to foster creativity, critical thinking, and innovation:
+            </p>
+            <ul>
+                <li>STEM Outreach & Mentorship</li>
+                <li>Community Service Projects</li>
+                <li>Creative Arts & Science Initiatives</li>
+                <li>Youth-Led Workshops and Events</li>
+            </ul>
+
+            <h2>Why We Do It</h2>
+            <p>
+                At Hope Avenue, we believe that by providing the right resources and guidance, we can
+                unlock the potential in every young person. We aim to create an environment where youth
+                are inspired to dream big, think critically, and collaborate with others to make a positive
+                impact in their communities.
+            </p>
+
+            <h2>Get Involved</h2>
+            <p>
+                Whether you're interested in volunteering, mentoring, or supporting our mission through
+                donations, there are many ways you can help. Join us in our efforts to create a brighter
+                future for the next generation of innovators and change-makers.
+            </p>
+
+            <a href="contact.html" class="button">Contact Us</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Hope Avenue | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
